@@ -1,5 +1,5 @@
 # The Toast Computer
-![Toast_display](https://github.com/user-attachments/assets/6f30f1e7-4dd6-4208-a52d-85848e6e2b2c)
+![Toast_display]()
 
 ### Summary:
 I have created and am still currently working on building an 8-Bit computer on a bread board. This computer utilizes the `W65C02` CPU and has 256K RAM and 256K of Read Only Memory (ROM). I'm following the tutorial that [Ben Eater](https://eater.net/6502) created. 
